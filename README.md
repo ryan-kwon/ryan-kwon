@@ -13,5 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I have the following soft skills...
+<table>
+  <tr>
+    <td>Confident</td>
+    <td>Concise</td>
+    <td>Empathetic</td>
+    <td>Curious</td>
+    <td>Calm</td>
+    <td>Open-minded</td>
+    <td>Hard Working</td>
+  </tr>
+ </table>
 -->
+[![Kyu Sung's GitHub stats](https://github-readme-stats.vercel.app/api?ryan-kwon=anuraghazra)](https://github.com/ryan-kwon/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pichette&hide=html&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
