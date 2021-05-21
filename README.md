@@ -36,4 +36,4 @@ I have the following soft skills...
 <br><br>
 
 ![Kyu Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-kwon&show_icons=true&theme=tokyonight)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pichette&hide=html&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pichette&hide=html&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
