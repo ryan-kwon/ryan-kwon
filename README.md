@@ -27,5 +27,5 @@ I have the following soft skills...
   </tr>
  </table>
 -->
-[![Kyu Sung's GitHub stats](https://github-readme-stats.vercel.app/api?ryan-kwon=anuraghazra)](https://github.com/ryan-kwon/github-readme-stats)
+![Kyu Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-kwon&show_icons=true&theme=radical)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pichette&hide=html&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
