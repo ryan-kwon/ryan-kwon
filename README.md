@@ -17,7 +17,6 @@ I have the following soft skills...
  </table>
 -->
 - 🔭 I’m currently a student at OSU
-- 👯 I’m collaborating on [Gift Idea Forum](https://github.com/JoshuaLim007/Gif---Gift-Idea-Forum)
 - 📫 How to reach me: ryanksk@gmail.com
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
